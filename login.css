@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("images/login_background2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+header{
+     display:flex;
+     justify-content: space-around;
+     width:100%;
+     align-items: center;
+     padding:5px 10px;   
+     height:80px;
+ }
+
+header img{
+    cursor:pointer;
+    height:70px;
+    margin-right: auto;
+}
+.nav_bar{
+    list-style:none;
+}
+.nav_bar li{
+    display:inline-block;
+    justify-content:center;
+    padding:10px;
+}
+.nav_bar li a ,a:active{
+    color:#2c0303;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'East Sea Dokdo', cursive;
+}
+
+.nav_bar li a:hover{
+    font-size: 35px;
+    color: #f0ecec;
+}
+
+.login_form{
+    box-sizing: content-box;
+    /* background-color: #003322;  */
+    margin:100px 300px;
+    width:600px;
+    padding:10px;
+    box-shadow:inset;
+    border-color: #dfceb9;
+    border-width: 10px;
+    border:#130702;
+    border-radius:5%;
+}
+.login_heading{
+    font-size: 40px;
+    color:hsl(180, 60%, 6%);
+    padding:20px;
+    margin-left:190px;
+    font-family: 'Changa', sans-serif;
+    font-weight: 2000;
+    border-bottom:50px ;
+}
+
+.login_form form input{
+    width:300px;
+    height:25px;
+    margin-left:80px;
+    text-align: center;
+    background: none;
+    padding:8px 0;
+    border-color: #130702;
+    overflow: hidden;
+    color:#03052b;
+    font-size: 22px;
+    border-radius: 8%;
+}
+.login_form form img{
+    width:20px;
+    height:20px;
+    margin-left:60px;
+}
+button{
+    width:300px;
+    height:30px;
+    margin-left:164px;
+    border-color: #130702;
+    font-size: 20px;
+    border-radius:8%;
+    text-transform: uppercase;
+}
+
+.login_form ul{
+    list-style: none;
+    margin-left: 100px;
+}
+.login_form li{
+    display: inline-block;
+    padding:20px;
+}
+
+.login_form a,a:active{
+    color:#02085a;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+.login_form a:hover{
+    color:#27424b;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:underline ;
+}

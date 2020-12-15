@@ -46,7 +46,7 @@ header img{
 .login_form{
     box-sizing: content-box;
     /* background-color: #003322;  */
-    margin:100px 300px;
+    margin:90px 300px;
     width:600px;
     padding:10px;
     box-shadow:inset;
@@ -74,9 +74,10 @@ header img{
     padding:8px 0;
     border-color: #130702;
     overflow: hidden;
-    color:#03052b;
-    font-size: 22px;
+    color:#051c46;
+    font-size: 18px;
     border-radius: 8%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .login_form form img{
     width:20px;
@@ -91,6 +92,12 @@ button{
     font-size: 20px;
     border-radius:8%;
     text-transform: uppercase;
+    cursor: pointer;
+    background:none;
+    color:#062844;
+}
+button:hover{
+    background-image:linear-gradient(to bottom right, rgb(243, 238, 235) , rgb(197, 228, 224) 50%)
 }
 
 .login_form ul{

@@ -5,9 +5,9 @@ body{
 }
 
 .rapper{
-    background: url(university2.jpg) no-repeat center center;
+    background: url(biet\ final\ logo.jpg) no-repeat center center;
     background-size: 100%;
-    /* backface-visibility: visible; */
+    backface-visibility: visible; 
     
 }
 nav{
@@ -26,7 +26,6 @@ nav ul li{
     list-style-type: none;
     display: inline-block;
 }
-.cs 
 
 nav ul li a{
     text-decoration: none;
@@ -34,7 +33,7 @@ nav ul li a{
     padding: 20px;
 }
 img{
-    width: 8%;
+    width: 6%;
     margin-left: 1rem;
     margin-top: -1%;
     margin-bottom: 2rem;
@@ -88,6 +87,10 @@ showcase h1{
      width: 250px;
      border-radius: 10px;
      border: 2px solid #000000;
+ }
+
+ .cs img{
+     width: 20%;
  }
 .apply{
     margin-top: 4%;

@@ -34,7 +34,7 @@ header img{
     box-shadow: 1px 2px;
 }
 .nav_bar li a ,a:active{
-    color:#070000;
+    color:rgba(0, 0, 0, 0.781);
     font-size: 30px;
     text-decoration: none;
     font-family: 'East Sea Dokdo', cursive;
@@ -101,7 +101,7 @@ button{
     font-weight: 200;
 }
 button:hover{
-    background-image:linear-gradient(to bottom right, rgb(255, 255, 255) , rgb(197, 228, 224) 50%);
+    background-color: rgba(60, 245, 189, 0.301);
     color:#011601;
 }
 

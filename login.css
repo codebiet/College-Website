@@ -16,6 +16,7 @@ header{
      align-items: center;
      padding:5px 10px;   
      height:80px;
+     background-color: rgb(255,255,255,0.1);
  }
 
 header img{
@@ -32,7 +33,7 @@ header img{
     padding:10px;
 }
 .nav_bar li a ,a:active{
-    color:#2c0303;
+    color:#5a180f;
     font-size: 30px;
     text-decoration: none;
     font-family: 'East Sea Dokdo', cursive;
@@ -40,14 +41,15 @@ header img{
 
 .nav_bar li a:hover{
     font-size: 35px;
-    color: #f0ecec;
+    color: #58b1c7;
 }
 
 .login_form{
     box-sizing: content-box;
-    /* background-color: #003322;  */
+    background-color:rgb(255,255,255,0.1); 
     margin:90px 300px;
     width:600px;
+    box-shadow: 5px 5px;
     padding:10px;
     box-shadow:inset;
     border-color: #dfceb9;
@@ -57,7 +59,7 @@ header img{
 }
 .login_heading{
     font-size: 40px;
-    color:hsl(180, 60%, 6%);
+    color:hsla(250, 39%, 12%, 0.856);
     padding:20px;
     margin-left:190px;
     font-family: 'Changa', sans-serif;
@@ -72,9 +74,9 @@ header img{
     text-align: center;
     background: none;
     padding:8px 0;
-    border-color: #130702;
+    border-color: #03122b;
     overflow: hidden;
-    color:#051c46;
+    color:#0b1529;
     font-size: 18px;
     border-radius: 8%;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -94,10 +96,11 @@ button{
     text-transform: uppercase;
     cursor: pointer;
     background:none;
-    color:#062844;
+    color:#134c7a;
 }
 button:hover{
-    background-image:linear-gradient(to bottom right, rgb(243, 238, 235) , rgb(197, 228, 224) 50%)
+    background-image:linear-gradient(to bottom right, rgb(255, 255, 255) , rgb(197, 228, 224) 50%);
+    color:#011601;
 }
 
 .login_form ul{
@@ -110,13 +113,13 @@ button:hover{
 }
 
 .login_form a,a:active{
-    color:#02085a;
+    color:#084638;
     font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: none;
 }
 .login_form a:hover{
-    color:#27424b;
+    color:#1c4a94;
     font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration:underline ;

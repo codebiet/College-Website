@@ -35,20 +35,22 @@ header img{
 }
 .nav_bar li a ,a:active{
     color:rgba(0, 0, 0, 0.781);
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
-    font-family: 'East Sea Dokdo', cursive;
+    font-weight: 500;
+    font-family:'Times New Roman', Times, serif;
+    /* font-family: 'East Sea Dokdo', cursive; */
 }
 
 .nav_bar li a:hover{
-    font-size: 35px;
+    font-size: 25px;
     color: #ffffff;
 }
 
 .login_form{
     box-sizing: content-box;
     background-color:rgb(255,255,255,0.05); 
-    margin:50px 310px;
+    margin:80px 370px;
     width:600px;
     box-shadow: 5px 5px;
     padding:10px;
@@ -122,11 +124,13 @@ button:hover{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: none;
 }
+
 .login_form a:hover{
     color:#1c4a94;
     font-size: 20px;
     text-decoration:underline ;
 }
+
 .login_form img{
     width: 27%;
     margin-left:218px;

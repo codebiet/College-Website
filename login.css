@@ -81,6 +81,7 @@ header img{
     font-size: 18px;
     border-radius: 8%;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(0,255,255,0.125);
 }
 .login_form form img{
     width:20px;
@@ -99,9 +100,10 @@ button{
     background:none;
     color:#000000;
     font-weight: 200;
+    background-color: rgb(0,255,255,0.125);
 }
 button:hover{
-    background-color: rgba(60, 245, 189, 0.301);
+    background-color: rgb(60, 245, 189, 0.301);
     color:#011601;
 }
 
@@ -123,7 +125,6 @@ button:hover{
 .login_form a:hover{
     color:#1c4a94;
     font-size: 20px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration:underline ;
 }
 .login_form img{

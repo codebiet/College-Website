@@ -115,7 +115,7 @@ button:hover{
 }
 
 .login_form a,a:active{
-    color:#032e24;
+    color:rgba(223, 52, 9, 0.5);
     font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: none;

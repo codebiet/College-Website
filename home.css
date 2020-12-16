@@ -5,7 +5,7 @@ body{
 }
 
 .rapper{
-    background: url(/images/biet\ background.jpg) no-repeat center center;
+    background: url(register_background.jpg) no-repeat center center;
     background-size: 100%;
     backface-visibility: visible; 
     
@@ -32,6 +32,17 @@ nav ul li a{
     color: #f8e8e8;
     padding: 20px;
 }
+.rapper input{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 8px 14px;
+    width: 120px;
+}
+.search{
+    color: white;
+    float: right;
+    padding: 1px 75px;
+}
 img{
     width: 6%;
     margin-left: 1rem;
@@ -44,19 +55,19 @@ nav ul li:hover{
     font-weight: bold;
     font-size: 1.2rem;
 }
-.section{
+/*.selection{
     width: 80%;
     margin: auto;
     overflow: hidden;
     margin-top: 4%;
 }
-.section h1{
-    color: #ffffff;
+.selection h1{
+    color: #f8f6f6;
     line-height: 50px;
 }
-.section p{
+.selection p{
     color: grey;
-}
+}*/
 .btn_1{
     background-color: orange;
     padding: 0.7rem 1rem;

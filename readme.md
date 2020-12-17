@@ -1,4 +1,4 @@
-# This is a College Website
+# <font color="#743943">This is a College Website</font>
 ## contributers :
   * Raveet Kumar
   * Sahil Singh

@@ -18,7 +18,7 @@ nav{
 nav ul{
     float: right;
     margin: 0;
-    margin-right: 1.9rem;
+    margin-right: -0.1rem;
 }
 
 nav ul li{
@@ -29,7 +29,7 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #f8e8e8;
-    padding: 20px;
+    padding: 10px;
 }
 .rapper input{
     border: 2px solid black;
@@ -43,9 +43,9 @@ nav ul li a{
     padding: 1px 75px;
 }
 img{
-    width: 6%;
+    width: 19%;
     margin-left: 1rem;
-    margin-top: -1%;
+    margin-top: 0.5%;
     margin-bottom: 2rem;
 }
 nav ul li:hover{
@@ -54,7 +54,7 @@ nav ul li:hover{
     font-weight: bold;
     font-size: 1.2rem;
 }
-/*.selection{
+.selection{
     width: 80%;
     margin: auto;
     overflow: hidden;
@@ -66,7 +66,7 @@ nav ul li:hover{
 }
 .selection p{
     color: grey;
-}*/
+}
 .btn_1{
     background-color: orange;
     padding: 0.7rem 1rem;

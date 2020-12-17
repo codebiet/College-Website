@@ -99,9 +99,6 @@ showcase h1{
      border: 2px solid #000000;
  }
 
- .cs img{
-     width: 20%;
- }
 .apply{
     margin-top: 4%;
     background-color: orangered;
@@ -116,4 +113,82 @@ footer{
     text-align: center;
     padding: 1.2rem;
     margin-top: 4%;
+}
+
+
+table{
+    border-color:#7e0b0b;
+    border-width: 3px;
+    border-style: solid;
+    margin-left: 30px;
+    padding:30px;
+    border-collapse: collapse;
+}
+table td{
+    border: 3px solid;
+    border-color: #ffffff;
+    width:300px;
+    height:250px;   
+}
+
+table td h3{
+    color:#101110;
+    margin-left:auto;
+    margin-right: auto;
+}
+.cs{
+   background-image: url("images/computerS.png"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   color:#ffffff;
+   font-family:'Times New Roman', Times, serif ;
+   font-size: 30px;
+}
+.it{
+    background-image: url("images/rsz_1it.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#f5eaea;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 30px;
+}
+.ece{
+    background-image: url("images/rsz_1electronicse.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#f5eaea;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 30px;
+}
+.ee{
+    background-image: url("images/rsz_1electricale.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#f5eaea;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 30px;
+}
+.ce{
+    background-image: url("images/rsz_civl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#f5eaea;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 30px;
+}
+.me{
+   background-image: url("images/mechanical1.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   color:#f5eaea;
+   font-family:'Times New Roman', Times, serif ;
+   font-size: 30px;
+}
+.ch{
+   background-image: url("images/rsz_1chemicale.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   color:#f5eaea;
+   font-family:'Times New Roman', Times, serif ;
+   font-size: 30px;
 }

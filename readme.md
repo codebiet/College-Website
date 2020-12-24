@@ -5,4 +5,6 @@
   * Sumanya Agarwal
   * Armatya Singh
  <hr>
-<img src="https://media5.picsearch.com/is?RMoZ0gFGN4AHVF9QnSbLaJdQh0OoML9Jq4Pm9ZNpoIc&height=191">
+<img src="https://drive.google.com/file/d/1O8kemO280HFxowdmlI2U2k4s09j9u7Db/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1yB58QN-pbieLNQiOTOPWvpFh_DP1ga1s/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1lfwznKi8FujbYpBzHEmLhM7JIGgj4kR_/view?usp=sharing">

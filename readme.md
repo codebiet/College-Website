@@ -5,6 +5,6 @@
   * Sumanya Agarwal
   * Armatya Singh
  <hr>
-<img src="https://drive.google.com/file/d/1O8kemO280HFxowdmlI2U2k4s09j9u7Db/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1yB58QN-pbieLNQiOTOPWvpFh_DP1ga1s/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1lfwznKi8FujbYpBzHEmLhM7JIGgj4kR_/view?usp=sharing">
+<img src="https://github.com/codebiet/College-Website/blob/master/Screenshot%20(65).png">
+<img src="https://github.com/codebiet/College-Website/blob/master/Homepage1.jpeg">
+<img src="https://github.com/codebiet/College-Website/blob/master/Homepage2.jpeg">
